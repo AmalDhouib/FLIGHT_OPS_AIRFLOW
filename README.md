@@ -7,7 +7,6 @@ This project implements an end-to-end data pipeline using the Medallion Architec
 The pipeline is orchestrated using Apache Airflow and follows a modern data engineering approach with data ingestion, transformation, aggregation, and warehouse loading.
 
 The final objective is to automate data collection and integration into the database, ensuring reliable and structured data availability for dashboard visualization and operational analysis.
----
 
 # Architecture
 
